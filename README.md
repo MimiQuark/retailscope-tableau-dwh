@@ -1,4 +1,4 @@
-# Retail SQL Data Warehouse and Tableau Dashboard
+# RetailScope: Retail Data Warehouse and Tableau Decision Dashboard
 
 Retail sales data warehouse project built with Python, SQLite/MySQL-compatible SQL, star-schema modeling, KPI views, and Tableau 2026.2.
 
